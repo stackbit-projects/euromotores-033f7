@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme E
+title: Jekyll Serif Theme EURO
 layout: home
 description: >-
   Jekyll Serif contains content types for a typical business website. The theme
