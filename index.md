@@ -1,7 +1,7 @@
 ---
 title: Jekyll Serif Theme EURO
 layout: home
-description: Jekyll EUROMOTORES propor.
+description: Jekyll EUROMOTORES proporciona la mejor .
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
